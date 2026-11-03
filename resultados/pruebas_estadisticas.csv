@@ -1,0 +1,4 @@
+﻿escenario_1,escenario_2,estadistico_U,p_original,p_ajustado_bonferroni,significativo
+Actividad habitual,Mayor actividad sospechosa,5797.0,0.0478313036484116,0.1434939109452348,False
+Actividad habitual,Observaciones ambiguas,8062.0,4.6067358028927e-14,1.38202074086781e-13,True
+Mayor actividad sospechosa,Observaciones ambiguas,7564.5,2.729947663400921e-10,8.189842990202762e-10,True
